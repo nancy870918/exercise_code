@@ -1,0 +1,6 @@
+mail:
+    host: smtp.163.com
+    sender: nancy870918@163.com
+    passwd: 1993wls
+    receiver: wangls@toone.com.cn
+    subject: 测试主题，随时修改

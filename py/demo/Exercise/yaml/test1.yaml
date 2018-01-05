@@ -1,0 +1,7 @@
+#以下格式会转成list
+---
+name: nancy
+age: 30
+---
+name: test
+age: 20

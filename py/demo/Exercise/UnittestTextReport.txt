@@ -1,0 +1,154 @@
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 29, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+Test method add(a,b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc)
+Test method miuns(a,b) ... ok
+test_multi (test_mathfunc.TestMathFunc)
+Test method multi(a,b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a,b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\py\demo\Exercise\test_mathfunc.py", line 33, in test_divide
+    self.assertEqual(2,divide(5,2))
+AssertionError: 2 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
